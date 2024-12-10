@@ -1,4 +1,4 @@
-name: "Terraform K8S Pipeline"
+name: "Terraform DB Pipeline"
 
 on:
   push:
